@@ -17,6 +17,11 @@
       "type": "image/png",
       "sizes": "512x512"
     }
+    {
+      "src": "newImage.jpeg",
+      "type": "image/jpeg",
+      "sizes": "1152x528"
+    }
   ],
   "start_url": ".",
   "display": "standalone",
